@@ -120,3 +120,12 @@ This project is licensed under the [MIT License](LICENSE).
 ⭐ **If you found this interesting, consider starring the repo!**
 
 </div>
+## 📸 Demo
+
+![Demo GIF](media/demo.mp4)
+
+Or watch the full demo here:  
+[Demo Video](media/demo.mp4)
+## 📸 Demo
+
+https://user-images.githubusercontent.com/<your-id>/<generated-link>.mp4
